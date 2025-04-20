@@ -1,0 +1,65 @@
+[
+    {
+        "user_id": "gooyf9nn3PO",
+        "role": "instructor",
+        "days": 198,
+        "posts": 554,
+        "asks": 26,
+        "answers": 396,
+        "views": 1084
+    },
+    {
+        "user_id": "i6q23gcekfm15v",
+        "role": "instructor",
+        "days": 331,
+        "posts": 907,
+        "asks": 0,
+        "answers": 687,
+        "views": 1825
+    },
+    {
+        "user_id": "l01f7dq61721zx",
+        "role": "student",
+        "days": 169,
+        "posts": 55,
+        "asks": 21,
+        "answers": 21,
+        "views": 267
+    },
+    {
+    "user_id": "kzlvqb7sce776q",
+    "role": "student",
+    "days": 260,
+    "posts": 12,
+    "asks": 9,
+    "answers": 3,
+    "views": 946
+},
+{
+    "user_id": "l01f6628pmr4ce",
+    "role": "instructor",
+    "days": 243,
+    "posts": 634,
+    "asks": 0,
+    "answers": 453,
+    "views": 1700
+},
+{
+    "user_id": "l01f6w2qn6l7ip",
+    "role": "student",
+    "days": 307,
+    "posts": 100,
+    "asks": 17,
+    "answers": 62,
+    "views": 384
+},
+{
+    "user_id": "l57brenyyxk7g6",
+    "role": "student",
+    "days": 259,
+    "posts": 183,
+    "asks": 120,
+    "answers": 0,
+    "views": 395
+}
+]

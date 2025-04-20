@@ -1,0 +1,11 @@
+[
+    {
+        "semester": "sample_semester",
+        "id_q": "l6x5f4tlltb1ey",
+        "instruction": "Lab 5.5\nWhen I am testing I had this error.\nHow can I fix it?\n",
+        "input": "",
+        "output1": "As KW would say:\n\n\"we cannot help you to debug, which is an important aspect of this course.\"\n\n(Post Locked).",
+        "output2": "As KW would say:\n\n\"we cannot help you to debug, which is an important aspect of this course.\"\n\n\nKW adds: Yes :)\n\nBut I'm feeling a bit nicer today (after having processed a relatively large number of last-minute extension requests), so I shall give a bit of hint. Use Google and search for any key phrases that you do not understand. Remember to include \"MATLAB\" in your search as well...\u00a0",
+        "preference": 2
+    }
+]

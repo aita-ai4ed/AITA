@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0,
+        "semester": "sample_semester",
+        "folder": "logistics",
+        "answer_by_instructor": true,
+        "question": "coursebook unlock\nwhen i currently try to download the matlab coursebook, it says the file is locked. could this please be unlocked?",
+        "answer": "Seems to be unblocked now. Try again?"
+    },
+    {
+        "id": 1,
+        "semester": "sample_semester",
+        "folder": "c_project",
+        "answer_by_instructor": false,
+        "question": "Can you put an if statement inside another if statement?\n.",
+        "answer": "Can you? Yes. Should you? Sometimes. For the project, it's perfectly okay.\n\nGenerally, it's considered bad practice as:\n\n\nif (A) {\n\tif (B) {\n\t\t// Some code\n\t}\n}\ncan always be written as:\n\nif (A && B) {\n\t// Some code\n}\n\nBut, there isn't really an actual issue with it outside of readability."
+    }
+]

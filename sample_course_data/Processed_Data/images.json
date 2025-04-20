@@ -1,0 +1,22 @@
+[
+    {
+        "img_id": "l6x5f4tlltb1ey_0.png",
+        "semester": "sample_semester",
+        "postnum": 486,
+        "post_part": "question",
+        "src_url": "/redirect/s3?bucket=uploads&prefix=paste%2Fl01f7dq61721zx%2F283e28fa4b753650397d9d3c389e9be7e2940bff21a810495ed7bf937cbae6cb%2Fimage.png",
+        "success_url": "https://piazza.com/redirect/s3?bucket=uploads&prefix=paste%2Fl01f7dq61721zx%2F283e28fa4b753650397d9d3c389e9be7e2940bff21a810495ed7bf937cbae6cb%2Fimage.png",
+        "ocr_text": null,
+        "ocr_valid": null
+    },
+    {
+        "img_id": "l6x5f4tlltb1ey_0.png",
+        "semester": "sample_semester",
+        "postnum": 486,
+        "post_part": "question",
+        "src_url": "/redirect/s3?bucket=uploads&prefix=paste%2Fl01f7dq61721zx%2F283e28fa4b753650397d9d3c389e9be7e2940bff21a810495ed7bf937cbae6cb%2Fimage.png",
+        "success_url": "https://piazza.com/redirect/s3?bucket=uploads&prefix=paste%2Fl01f7dq61721zx%2F283e28fa4b753650397d9d3c389e9be7e2940bff21a810495ed7bf937cbae6cb%2Fimage.png",
+        "ocr_text": null,
+        "ocr_valid": null
+    }
+]

@@ -1,0 +1,58 @@
+semester,postnum,subject,question,started_off_answer,updated_answer,answer_by,folders,views,html_q,html_a,id_q,id_a,utc_q,utc_a,numlikes_q,numlikes_a,endorsed_q,endorsed_a
+sample_semester,7,coursebook unlock,"when i currently try to download the matlab coursebook, it says the file is locked. could this please be unlocked?",Seems to be unblocked now. Try again?,,instructor,logistics,12,"when i currently try to download the matlab coursebook, it says the file is locked. could this please be unlocked?",Seems to be unblocked now. Try again?,l5lje4qurpswp,l5ljutq8avt6w4,2022-07-14 21:21:59 UTC,2022-07-14 21:34:58 UTC,0,2,False,True
+sample_semester,486,Lab 5.5,"When I am testing I had this error.
+How can I fix it?
+","As KW would say:
+
+""we cannot help you to debug, which is an important aspect of this course.""
+
+(Post Locked).","As KW would say:
+
+""we cannot help you to debug, which is an important aspect of this course.""
+
+
+KW adds: Yes :)
+
+But I'm feeling a bit nicer today (after having processed a relatively large number of last-minute extension requests), so I shall give a bit of hint. Use Google and search for any key phrases that you do not understand. Remember to include ""MATLAB"" in your search as well... ",instructor,lab5,281,"<p>When I am testing I had this error.</p>
+<p>How can I fix it?</p>
+<p><img src=""/redirect/s3?bucket=uploads&amp;prefix=paste%2Fl01f7dq61721zx%2F283e28fa4b753650397d9d3c389e9be7e2940bff21a810495ed7bf937cbae6cb%2Fimage.png"" alt=""image.png"" /></p>","<p>As KW would say:</p>
+<p></p>
+<p>&#34;we cannot help you to debug, which is an important aspect of this course.&#34;</p>
+<p></p>
+<p></p>
+<p><strong>KW adds:</strong> Yes :)</p>
+<p></p>
+<p>But I&#39;m feeling a bit nicer today (after having processed a relatively large number of last-minute extension requests), so I shall give a bit of hint. Use Google and search for any key phrases that you do not understand. Remember to include &#34;MATLAB&#34; in your search as well... </p>",l6x5f4tlltb1ey,l6x7po6chew18,2022-08-17 05:03:48 UTC,2022-08-17 06:37:50 UTC,0,0,False,False
+sample_semester,1477,Can you put an if statement inside another if statement?,.,"Can you? Yes. Should you? Sometimes. For the project, it's perfectly okay.
+
+Generally, it's considered bad practice as:
+
+
+if (A) {
+	if (B) {
+		// Some code
+	}
+}
+can always be written as:
+
+if (A && B) {
+	// Some code
+}
+
+But, there isn't really an actual issue with it outside of readability.",,student,c_project,114,<p>.</p>,"<p>Can you? Yes. Should you? Sometimes. For the project, it&#39;s perfectly okay.</p>
+<p></p>
+<p>Generally, it&#39;s considered bad practice as:</p>
+<p></p>
+<pre>
+if (A) {
+	if (B) {
+		// Some code
+	}
+}</pre>
+<p>can always be written as:</p>
+<pre>
+if (A &amp;&amp; B) {
+	// Some code
+}</pre>
+<p></p>
+<p>But, there isn&#39;t really an actual issue with it outside of readability.</p>",l97k23y4ceh6ck,l97zi81rtwt3fb,2022-10-13 21:10:41 UTC,2022-10-14 04:23:07 UTC,0,0,False,False
